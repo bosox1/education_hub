@@ -1,0 +1,3689 @@
+{
+ "sections": {
+  "nursing": {
+   "key": "nursing",
+   "name": "Медсестринство",
+   "code": "223",
+   "items": [
+    {
+     "href": "/material/page81",
+     "external": false,
+     "title": "Єдиний державний кваліфікаційний іспит (ЄДКІ)",
+     "subtitle": "",
+     "image": "/media/img/edki_nurse.jpg",
+     "flavor": null,
+     "material": "page81"
+    },
+    {
+     "href": "/material/page1",
+     "external": false,
+     "title": "Внутрішньовенне краплинне введення лікарських засобів",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page1"
+    },
+    {
+     "href": "/material/page54",
+     "external": false,
+     "title": "Joanna GOTLIB (Wydział Nauk o Zdrowiu WUM)",
+     "subtitle": "",
+     "image": "/media/img/polska.jpg",
+     "flavor": null,
+     "material": "page54"
+    },
+    {
+     "href": "/material/page2",
+     "external": false,
+     "title": "Внутрішньовенне струменеве введення лікарського засобу",
+     "subtitle": "Внутрішньовенне струминне введення лікарських засобів",
+     "image": null,
+     "flavor": null,
+     "material": "page2"
+    },
+    {
+     "href": "/material/page3",
+     "external": false,
+     "title": "Забір крові з вени на біохімію",
+     "subtitle": "Забір венозної крові лабораторного дослідження",
+     "image": null,
+     "flavor": null,
+     "material": "page3"
+    },
+    {
+     "href": "/material/page4",
+     "external": false,
+     "title": "Техніка проведення послаблювальної (олійної) клізми",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page4"
+    },
+    {
+     "href": "/material/index5",
+     "external": false,
+     "title": "Проведення лікувальної клізми",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "index5"
+    },
+    {
+     "href": "/material/index6",
+     "external": false,
+     "title": "Проведення сифонної клізми",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "index6"
+    },
+    {
+     "href": "/material/index7",
+     "external": false,
+     "title": "Забір сечі за Нечипоренком",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "index7"
+    },
+    {
+     "href": "/material/page10",
+     "external": false,
+     "title": "Техніка проведення скарифікаційної проби",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page10"
+    },
+    {
+     "href": "/material/page11",
+     "external": false,
+     "title": "Виконання підшкірної ін’єкції",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page11"
+    },
+    {
+     "href": "/material/page12",
+     "external": false,
+     "title": "Правила розведення антибіотиків",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page12"
+    },
+    {
+     "href": "/material/page13",
+     "external": false,
+     "title": "Закладання мазі в кон’юнктивальний мішок",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page13"
+    },
+    {
+     "href": "/material/page14",
+     "external": false,
+     "title": "Закапування крапель в кон’юнктивальний мішок",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page14"
+    },
+    {
+     "href": "/material/page15",
+     "external": false,
+     "title": "Проведення зондового промивання шлунку",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page15"
+    },
+    {
+     "href": "/material/page16",
+     "external": false,
+     "title": "Мінна агресія",
+     "subtitle": "Кваснюк Ярема Богданович, викладач фахового медичного коледжу ІФНМУ",
+     "image": null,
+     "flavor": null,
+     "material": "page16"
+    },
+    {
+     "href": "/material/page17",
+     "external": false,
+     "title": "Індивідуальні та колективні засоби захисту",
+     "subtitle": "Лесіцький М. М., викладач фахового медичного коледжу ІФНМУ",
+     "image": null,
+     "flavor": null,
+     "material": "page17"
+    },
+    {
+     "href": "/material/page18",
+     "external": false,
+     "title": "Базові реанімаційні заходи",
+     "subtitle": "Базові реанімаційні заходи «BASIC LIFE SUPPORT» (базова підтримка життєдіяльності)",
+     "image": null,
+     "flavor": null,
+     "material": "page18"
+    },
+    {
+     "href": "/material/page21",
+     "external": false,
+     "title": "Advanced Trauma Life Support (ATLS, надання медичної допомоги при травмах)",
+     "subtitle": "",
+     "image": "/media/img/gmka.jpg",
+     "flavor": null,
+     "material": "page21"
+    },
+    {
+     "href": "/material/page53",
+     "external": false,
+     "title": "Як повідомити погані новини родині пацієнта",
+     "subtitle": "",
+     "image": "/media/img/gmka.jpg",
+     "flavor": null,
+     "material": "page53"
+    },
+    {
+     "href": "/material/academ",
+     "external": false,
+     "title": "Про академічну доброчесність в ІФНМУ",
+     "subtitle": "",
+     "image": "/media/img/education.webp",
+     "flavor": null,
+     "material": "academ"
+    },
+    {
+     "href": "/material/page22",
+     "external": false,
+     "title": "Інтерв'ю з професором Михайлом Пустовойтом",
+     "subtitle": "",
+     "image": "/media/img/myhailo.png",
+     "flavor": null,
+     "material": "page22"
+    },
+    {
+     "href": "/material/page19",
+     "external": false,
+     "title": "Алгоритм використання АЗД",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page19"
+    },
+    {
+     "href": "/material/page20",
+     "external": false,
+     "title": "Догляд за ВУХАМИ. Закрапування вушних крапель",
+     "subtitle": "Проведення туалету зовнішнього вуха(сухий та вологий способи",
+     "image": null,
+     "flavor": null,
+     "material": "page20"
+    },
+    {
+     "href": "/material/canada-page12",
+     "external": false,
+     "title": "Caring for patients with Stroke",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page12"
+    },
+    {
+     "href": "/material/canada-page16",
+     "external": false,
+     "title": "Understanding and Interpreting ABGs",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page16"
+    },
+    {
+     "href": "/material/canada-page17",
+     "external": false,
+     "title": "Cardiac monitoring and ECG interpretation",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page17"
+    },
+    {
+     "href": "/material/canada-page1",
+     "external": false,
+     "title": "The face of shock",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page1"
+    },
+    {
+     "href": "/material/canada-page14",
+     "external": false,
+     "title": "TPN & Blood Transfusion",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page14"
+    },
+    {
+     "href": "/material/canada-page18",
+     "external": false,
+     "title": "Nursing Care of the Patient Experiencing Cardiac Health Challenges",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page18"
+    },
+    {
+     "href": "/material/canada-page19",
+     "external": false,
+     "title": "Blood transfusion",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page19"
+    },
+    {
+     "href": "/material/canada-page20",
+     "external": false,
+     "title": "Head Injury",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page20"
+    },
+    {
+     "href": "/material/canada-page21",
+     "external": false,
+     "title": "Acute and chronic kidney disease",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page21"
+    },
+    {
+     "href": "/material/canada-page22",
+     "external": false,
+     "title": "Nursing Care of the patient experiencing respiratory health challenges",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page22"
+    },
+    {
+     "href": "/material/canada-page23",
+     "external": false,
+     "title": "Nursing Care of the patient requiring Patient Controlled Analgesia and epidural",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page23"
+    },
+    {
+     "href": "/material/canada-page24",
+     "external": false,
+     "title": "Nursing Care of the patient with cirrhosis",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page24"
+    },
+    {
+     "href": "/material/canada-page25",
+     "external": false,
+     "title": "Nursing Care of patient requiring pain management",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page25"
+    },
+    {
+     "href": "/material/canada-page26",
+     "external": false,
+     "title": "The face of shock",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page26"
+    },
+    {
+     "href": "/material/canada-page13",
+     "external": false,
+     "title": "Health Assessment",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page13"
+    },
+    {
+     "href": "/material/canada-page2",
+     "external": false,
+     "title": "Virtual Simulation. Multi-patient Prioritization Virtual Simulation",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page2"
+    },
+    {
+     "href": "/material/canada-page3",
+     "external": false,
+     "title": "Virtual Simulation Stroke management",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page3"
+    },
+    {
+     "href": "/material/canada-page4",
+     "external": false,
+     "title": "Medical Surgical Emergencies",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page4"
+    },
+    {
+     "href": "/material/canada-page5",
+     "external": false,
+     "title": "Emergency room",
+     "subtitle": "Virtual simulation",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page5"
+    },
+    {
+     "href": "/material/canada-page6",
+     "external": false,
+     "title": "Postpartum simulation game",
+     "subtitle": "Virtual simulation",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page6"
+    },
+    {
+     "href": "/material/canada-page7",
+     "external": false,
+     "title": "Virtual simulation. Labour and delivery simulation game",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page7"
+    },
+    {
+     "href": "/material/canada-page8",
+     "external": false,
+     "title": "Prenatal simulation game",
+     "subtitle": "Virtual simulation",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page8"
+    },
+    {
+     "href": "/material/canada-page9",
+     "external": false,
+     "title": "Skills Practice: A Home Visit",
+     "subtitle": "Virtual simulation",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page9"
+    },
+    {
+     "href": "/material/canada-page10",
+     "external": false,
+     "title": "Virtual simulation. Post-op pediatric clinical simulation",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page10"
+    },
+    {
+     "href": "/material/canada-page11",
+     "external": false,
+     "title": "Virtual simulation. TeamWorks! interprofessional collaboration in healthcare",
+     "subtitle": "",
+     "image": "/media/img/canada_banner.jpg",
+     "flavor": "canada",
+     "material": "canada-page11"
+    },
+    {
+     "href": "/tccc",
+     "external": false,
+     "title": "Курс тактичної бойової допомоги постраждалим",
+     "subtitle": "",
+     "image": "/media/img/soldier.png",
+     "flavor": "tccc"
+    },
+    {
+     "href": "/material/page24",
+     "external": false,
+     "title": "Роль і завдання медсестри при проведенні вакцинації",
+     "subtitle": "",
+     "image": "/media/eduHubPages/img/page24_banner.png",
+     "flavor": null,
+     "material": "page24"
+    },
+    {
+     "href": "/material/page40",
+     "external": false,
+     "title": "Сучасні ресурси для особистого та професійного розвитку медичної сестри",
+     "subtitle": "",
+     "image": "/media/eduHubPages/img/page24_banner.png",
+     "flavor": null,
+     "material": "page40"
+    },
+    {
+     "href": "/material/page25",
+     "external": false,
+     "title": "Сучасні аспекти освіти в медсестринстві",
+     "subtitle": "",
+     "image": "/media/eduHubPages/img/page24_banner.png",
+     "flavor": null,
+     "material": "page25"
+    },
+    {
+     "href": "/material/page26",
+     "external": false,
+     "title": "Створення безпечного середовища для медичних сестер в структурі паліативної допомоги",
+     "subtitle": "",
+     "image": "/media/eduHubPages/img/page24_banner.png",
+     "flavor": null,
+     "material": "page26"
+    },
+    {
+     "href": "/material/page27",
+     "external": false,
+     "title": "Сучасний підхід до консультування перед проведенням колоноскопії",
+     "subtitle": "",
+     "image": "/media/eduHubPages/img/page24_banner.png",
+     "flavor": null,
+     "material": "page27"
+    },
+    {
+     "href": "/material/page28",
+     "external": false,
+     "title": "Напрацювання проекту NEST",
+     "subtitle": "",
+     "image": "/media/eduHubPages/img/page24_banner.png",
+     "flavor": null,
+     "material": "page28"
+    },
+    {
+     "href": "/material/page29",
+     "external": false,
+     "title": "“Розвиток лідерського потенціалу”",
+     "subtitle": "",
+     "image": "/media/eduHubPages/img/page24_banner.png",
+     "flavor": null,
+     "material": "page29"
+    },
+    {
+     "href": "/material/page30",
+     "external": false,
+     "title": "Школа вакцинації для медсестер ( 3 частини)",
+     "subtitle": "",
+     "image": "/media/eduHubPages/img/page24_banner.png",
+     "flavor": null,
+     "material": "page30"
+    },
+    {
+     "href": "/material/page31",
+     "external": false,
+     "title": "Трансформація ролі медсестри у часі війни",
+     "subtitle": "",
+     "image": "/media/eduHubPages/img/page24_banner.png",
+     "flavor": null,
+     "material": "page31"
+    },
+    {
+     "href": "/material/page32",
+     "external": false,
+     "title": "Наталя Рудакова",
+     "subtitle": "",
+     "image": "/media/eduHubPages/img/page32.jpg",
+     "flavor": null,
+     "material": "page32"
+    },
+    {
+     "href": "/material/page33",
+     "external": false,
+     "title": "Методика одягання захисного костюма",
+     "subtitle": "",
+     "image": "/media/eduHubPages/img/page33.jpg",
+     "flavor": null,
+     "material": "page33"
+    },
+    {
+     "href": "/material/page34",
+     "external": false,
+     "title": "Травма в автокатастрофі: як правильно зняти шолом | ATLS",
+     "subtitle": "",
+     "image": "/media/img/gmka.jpg",
+     "flavor": null,
+     "material": "page34"
+    },
+    {
+     "href": "/material/page35",
+     "external": false,
+     "title": "Як правильно накласти тазовий бандаж | ATLS",
+     "subtitle": "",
+     "image": "/media/img/gmka.jpg",
+     "flavor": null,
+     "material": "page35"
+    },
+    {
+     "href": "/material/page36",
+     "external": false,
+     "title": "Як правильно накладати турнікет",
+     "subtitle": "",
+     "image": "/media/img/gmka.jpg",
+     "flavor": null,
+     "material": "page36"
+    },
+    {
+     "href": "/material/page37",
+     "external": false,
+     "title": "Як виконати конікотомію",
+     "subtitle": "",
+     "image": "/media/img/gmka.jpg",
+     "flavor": null,
+     "material": "page37"
+    },
+    {
+     "href": "/material/page38",
+     "external": false,
+     "title": "Як зупинити кровотечу і врятувати життя",
+     "subtitle": "",
+     "image": "/media/img/gmka.jpg",
+     "flavor": null,
+     "material": "page38"
+    },
+    {
+     "href": "/material/page39",
+     "external": false,
+     "title": "Перша медична допомога при травмах ока в умовах війни",
+     "subtitle": "",
+     "image": "/media/img/gmka.jpg",
+     "flavor": null,
+     "material": "page39"
+    },
+    {
+     "href": "/material/page41",
+     "external": false,
+     "title": "Підготовка голкотримача",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page41"
+    },
+    {
+     "href": "/material/page42",
+     "external": false,
+     "title": "Обкладання операційного поля",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page42"
+    },
+    {
+     "href": "/material/page43",
+     "external": false,
+     "title": "Підготовка інструментального столика",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page43"
+    },
+    {
+     "href": "/material/page44",
+     "external": false,
+     "title": "Реабілітація ветеранів: матеріали для лікарів та пацієнтів",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page44"
+    },
+    {
+     "href": "/material/page45",
+     "external": false,
+     "title": "ПХОР",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page45"
+    },
+    {
+     "href": "/material/page46",
+     "external": false,
+     "title": "Роз'єднання та з'єднання тканин",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page46"
+    },
+    {
+     "href": "/material/page47",
+     "external": false,
+     "title": "Догляд за очима",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page47"
+    },
+    {
+     "href": "/material/page48",
+     "external": false,
+     "title": "Догляд за вухами. Закрапування вушних крапель",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page48"
+    },
+    {
+     "href": "/material/page49",
+     "external": false,
+     "title": "Догляд за носовими ходами. Закрапування носа",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page49"
+    },
+    {
+     "href": "/material/page50",
+     "external": false,
+     "title": "Догляд за промежиною пацієнтки",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page50"
+    },
+    {
+     "href": "/material/page51",
+     "external": false,
+     "title": "Сублінгвальна проба на чутливість до антибіотика",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page51"
+    },
+    {
+     "href": "/material/page52",
+     "external": false,
+     "title": "Внутрішньошкірна проба на чутливість до антибіотика",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "page52"
+    },
+    {
+     "href": "/material/page56",
+     "external": false,
+     "title": "Техніка внутрішньовенного введення лікарських засобів",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page56"
+    },
+    {
+     "href": "/material/page57",
+     "external": false,
+     "title": "Техніка виконання внутрішньом’язової ін’єкції",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page57"
+    },
+    {
+     "href": "/material/page58",
+     "external": false,
+     "title": "Вимірювання температури тіла дитини",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page58"
+    },
+    {
+     "href": "/material/page59",
+     "external": false,
+     "title": "Техніка промивання шлунку тонким зондом",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page59"
+    },
+    {
+     "href": "/material/page61",
+     "external": false,
+     "title": "Техніка введення газовивідної трубки",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page61"
+    },
+    {
+     "href": "/material/page62",
+     "external": false,
+     "title": "Техніка проведення очисної клізми дитині раннього віку",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page62"
+    },
+    {
+     "href": "/material/page63",
+     "external": false,
+     "title": "Відсмоктування слизу з верхніх дихальних шляхів",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page63"
+    },
+    {
+     "href": "/material/page64",
+     "external": false,
+     "title": "Визначення добової та разової кількості їжі для дітей першого року життя",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page64"
+    },
+    {
+     "href": "/material/page65",
+     "external": false,
+     "title": "Закапування крапель у вухо дитини",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page65"
+    },
+    {
+     "href": "/material/page66",
+     "external": false,
+     "title": "Користування грілками і міхуром з льодом",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page66"
+    },
+    {
+     "href": "/material/page67",
+     "external": false,
+     "title": "Проведення антропометрії",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page67"
+    },
+    {
+     "href": "/material/page68",
+     "external": false,
+     "title": "Закапування очей та носа",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page68"
+    },
+    {
+     "href": "/material/page69",
+     "external": false,
+     "title": "Користування кувезом",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page69"
+    },
+    {
+     "href": "/material/page70",
+     "external": false,
+     "title": "Обробка та догляд за пупковою ранкою",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page70"
+    },
+    {
+     "href": "/material/page71",
+     "external": false,
+     "title": "Профілактика рахіту",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page71"
+    },
+    {
+     "href": "/material/page72",
+     "external": false,
+     "title": "Проведення серцево легеневої реанімації",
+     "subtitle": "",
+     "image": "/media/img/pediatr.jpg",
+     "flavor": null,
+     "material": "page72"
+    },
+    {
+     "href": "/material/page73",
+     "external": false,
+     "title": "Одягання стерильного халату та стерильних рукавиць операційною сестрою",
+     "subtitle": "",
+     "image": "/media/img/hirurg.jpg",
+     "flavor": null,
+     "material": "page73"
+    },
+    {
+     "href": "/material/page78",
+     "external": false,
+     "title": "Венепункція",
+     "subtitle": "",
+     "image": "/media/img/hirurg.jpg",
+     "flavor": null,
+     "material": "page78"
+    },
+    {
+     "href": "/material/page75",
+     "external": false,
+     "title": "Навчання, медична освіта та професійний обмін для розвитку охорони здоров'я в Україні в умовах війни",
+     "subtitle": "",
+     "image": "/media/img/navchannya-medichna-osvita.jpg",
+     "flavor": null,
+     "material": "page75"
+    },
+    {
+     "href": "/material/page76",
+     "external": false,
+     "title": "Anima",
+     "subtitle": "",
+     "image": "/media/img/anima.jpg",
+     "flavor": null,
+     "material": "page76"
+    },
+    {
+     "href": "/material/page77",
+     "external": false,
+     "title": "Національний портал з імунізації",
+     "subtitle": "",
+     "image": "/media/img/national_imun.jpg",
+     "flavor": null,
+     "material": "page77"
+    },
+    {
+     "href": "/material/page79",
+     "external": false,
+     "title": "Медична сестра з розширеними повноваженнями на первинній ланці",
+     "subtitle": "",
+     "image": "/media/img/swiss_banner.jpg",
+     "flavor": null,
+     "material": "page79"
+    },
+    {
+     "href": "/material/page80",
+     "external": false,
+     "title": "Симуляційні підходи в медичній освіті: міжнародний досвід",
+     "subtitle": "",
+     "image": "/media/img/swiss_banner.jpg",
+     "flavor": null,
+     "material": "page80"
+    },
+    {
+     "href": "/material/page84",
+     "external": false,
+     "title": "Людяність та емпатія в охороні здоров’я",
+     "subtitle": "",
+     "image": "/media/img/swiss_banner.jpg",
+     "flavor": null,
+     "material": "page84"
+    },
+    {
+     "href": "/material/page82",
+     "external": false,
+     "title": "Надання екстреної медичної допомоги на догоспітальному етапі",
+     "subtitle": "",
+     "image": "/media/img/page82try.jpg",
+     "flavor": null,
+     "material": "page82"
+    },
+    {
+     "href": "/material/page83",
+     "external": false,
+     "title": "Курс тактичної медицини",
+     "subtitle": "",
+     "image": "/media/img/tacticalMedecine.jpg",
+     "flavor": null,
+     "material": "page83"
+    },
+    {
+     "href": "/material/page85",
+     "external": false,
+     "title": "Визначено модуля Юнга кісткової тканини",
+     "subtitle": "",
+     "image": "/media/img/page90.png",
+     "flavor": null,
+     "material": "page85"
+    },
+    {
+     "href": "/material/page86",
+     "external": false,
+     "title": "Вивчення в’язкості біологічних рідин",
+     "subtitle": "",
+     "image": "/media/img/page90.png",
+     "flavor": null,
+     "material": "page86"
+    },
+    {
+     "href": "/material/page87",
+     "external": false,
+     "title": "Вивчення роботи фізіотерапевтичної апаратури",
+     "subtitle": "",
+     "image": "/media/img/page90.png",
+     "flavor": null,
+     "material": "page87"
+    },
+    {
+     "href": "/material/page88",
+     "external": false,
+     "title": "Вивчення роботи електрокардіографа",
+     "subtitle": "",
+     "image": "/media/img/page90.png",
+     "flavor": null,
+     "material": "page88"
+    },
+    {
+     "href": "/material/page89",
+     "external": false,
+     "title": "Вивчення роботи рефрактометра і поляриметра",
+     "subtitle": "",
+     "image": "/media/img/page90.png",
+     "flavor": null,
+     "material": "page89"
+    },
+    {
+     "href": "/material/page90",
+     "external": false,
+     "title": "Радіоактивність",
+     "subtitle": "",
+     "image": "/media/img/page90.png",
+     "flavor": null,
+     "material": "page90"
+    },
+    {
+     "href": "/material/page91",
+     "external": false,
+     "title": "Ведення фізіологічних пологів",
+     "subtitle": "",
+     "image": "/media/img/page95_img.jpg",
+     "flavor": null,
+     "material": "page91"
+    },
+    {
+     "href": "/material/page92",
+     "external": false,
+     "title": "Зовнішнє акушерське обстеження",
+     "subtitle": "",
+     "image": "/media/img/page95_img.jpg",
+     "flavor": null,
+     "material": "page92"
+    },
+    {
+     "href": "/material/page93",
+     "external": false,
+     "title": "Огляд шийки матки в дзеркалах",
+     "subtitle": "",
+     "image": "/media/img/page95_img.jpg",
+     "flavor": null,
+     "material": "page93"
+    },
+    {
+     "href": "/material/page94",
+     "external": false,
+     "title": "Огляд та пальпація молочних залоз",
+     "subtitle": "",
+     "image": "/media/img/page95_img.jpg",
+     "flavor": null,
+     "material": "page94"
+    },
+    {
+     "href": "/material/page95",
+     "external": false,
+     "title": "Біомануальне гінекологічне обстеження",
+     "subtitle": "",
+     "image": "/media/img/page95_img.jpg",
+     "flavor": null,
+     "material": "page95"
+    }
+   ],
+   "intro": [
+    "Сторінка Освітнього хабу «Медсестринство» створена науково-педагогічними та педагогічними працівниками фахового медичного коледжу Івано-Франківського національного медичного університету."
+   ]
+  },
+  "dentistry": {
+   "key": "dentistry",
+   "name": "Стоматологія",
+   "code": "221",
+   "items": [
+    {
+     "href": "/hub/dentistry/podcasts",
+     "external": false,
+     "title": "Подкасти з ортопедичної стоматології",
+     "subtitle": "19 випусків: лекції, розмови з професорами та практиками",
+     "image": "/media/Stomatology/podcasts/banner.jpg",
+     "flavor": "podcasts"
+    },
+    {
+     "href": "/material/academ",
+     "external": false,
+     "title": "Про академічну доброчесність в ІФНМУ",
+     "subtitle": "",
+     "image": "/media/img/education.webp",
+     "flavor": null,
+     "material": "academ"
+    },
+    {
+     "href": "/material/stom-page8",
+     "external": false,
+     "title": "32 E.Max Full digital protocol",
+     "subtitle": "",
+     "image": "/media/img/frankolab.png",
+     "flavor": null,
+     "material": "stom-page8"
+    },
+    {
+     "href": "/material/stom-page9",
+     "external": false,
+     "title": "Цифрова стоматологія",
+     "subtitle": "",
+     "image": "/media/img/bulbuk_oleksandr.jpg",
+     "flavor": null,
+     "material": "stom-page9"
+    },
+    {
+     "href": "/material/stom-page1",
+     "external": false,
+     "title": "Клініко-лабораторні етапи виготовлення основних ортопедичних конструкцій",
+     "subtitle": "",
+     "image": "/media/img/bulbuk_oleksandr.jpg",
+     "flavor": null,
+     "material": "stom-page1"
+    },
+    {
+     "href": "/material/stom-page12",
+     "external": false,
+     "title": "Єдиний державний кваліфікаційний іспит (ЄДКІ)",
+     "subtitle": "",
+     "image": "/media/img/edki_teath.jpg",
+     "flavor": null,
+     "material": "stom-page12"
+    },
+    {
+     "href": "/material/stom-page2",
+     "external": false,
+     "title": "Зняття відбитків альгінатними матеріалами",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "stom-page2"
+    },
+    {
+     "href": "/material/stom-page3",
+     "external": false,
+     "title": "Зняття відбитків силіконовими матеріалами",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "stom-page3"
+    },
+    {
+     "href": "/material/stom-page4",
+     "external": false,
+     "title": "Отримання функціональних відбитків",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "stom-page4"
+    },
+    {
+     "href": "/material/stom-page5",
+     "external": false,
+     "title": "Перевірка воскової композиції ЧЗПП",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "stom-page5"
+    },
+    {
+     "href": "/material/stom-page6",
+     "external": false,
+     "title": "Артикулятори і вивчення діагностичних моделей",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "stom-page6"
+    },
+    {
+     "href": "/material/stom-page7",
+     "external": false,
+     "title": "Ливарне пресування акрилових пластмас",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "stom-page7"
+    },
+    {
+     "href": "/material/stom-page10",
+     "external": false,
+     "title": "Виробнича практика",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "stom-page10"
+    },
+    {
+     "href": "/material/stom-page11",
+     "external": false,
+     "title": "Переддипломна практика",
+     "subtitle": "",
+     "image": null,
+     "flavor": null,
+     "material": "stom-page11"
+    },
+    {
+     "href": "/material/stom-page13",
+     "external": false,
+     "title": "Прес-кераміка",
+     "subtitle": "",
+     "image": "/media/img/gg2.png",
+     "flavor": null,
+     "material": "stom-page13"
+    },
+    {
+     "href": "https://sbm.pnu.edu.ua/akselerator/wave1/991-2/navchalnyj-element-4-tehnologiya-perevagy-intelektualne-pravo/",
+     "external": true,
+     "title": "Інтелектуальна власність та стартапи",
+     "subtitle": "",
+     "image": "/media/img/startup_stomatology.png",
+     "flavor": null
+    },
+    {
+     "href": "/material/page76",
+     "external": false,
+     "title": "Anima",
+     "subtitle": "",
+     "image": "/media/img/anima.jpg",
+     "flavor": null,
+     "material": "page76"
+    },
+    {
+     "href": "/material/page77",
+     "external": false,
+     "title": "Національний портал з імунізації",
+     "subtitle": "",
+     "image": "/media/img/national_imun.jpg",
+     "flavor": null,
+     "material": "page77"
+    }
+   ],
+   "intro": [
+    "Сторінка Освітнього хабу «Стоматологія» cтворена науково-педагогічними та педагогічними працівниками фахового медичного коледжу Івано-Франківського національного медичного університету.",
+    "Із розвитком Освітнього хабу навчальні блоки були створені також нашими партнерами з українських медичних ЗВО, колегами, роботодавцями та небайдужими й активними людьми, які переживають за розвиток медичної освіти в Україні.",
+    "Тому авторство навчальних блоків ми вказуємо в кожному блоці окремо.",
+    "Дякуємо всім за участь! Ми відкриті до співпраці. Запрошуємо."
+   ]
+  },
+  "pharmacy": {
+   "key": "pharmacy",
+   "name": "Фармація",
+   "code": "226",
+   "items": [
+    {
+     "href": "/material/pharm-page18",
+     "external": false,
+     "title": "Єдиний державний кваліфікаційний іспит (ЄДКІ)",
+     "subtitle": "",
+     "image": "/media/img/edki_farm.jpg",
+     "flavor": null,
+     "material": "pharm-page18"
+    },
+    {
+     "href": "/material/academ",
+     "external": false,
+     "title": "Про академічну доброчесність в ІФНМУ",
+     "subtitle": "",
+     "image": "/media/img/education.webp",
+     "flavor": null,
+     "material": "academ"
+    },
+    {
+     "href": "/material/pharm-page1",
+     "external": false,
+     "title": "Головний біль: сучасні підходи фармакокорекції та фармацевтичної опіки",
+     "subtitle": "",
+     "image": "/media/img/cubanova_natalia.jpg",
+     "flavor": null,
+     "material": "pharm-page1"
+    },
+    {
+     "href": "/material/pharm-page19",
+     "external": false,
+     "title": "Культура сервісу. Діалог в аптеці",
+     "subtitle": "",
+     "image": "/media/img/apteka.jpg",
+     "flavor": null,
+     "material": "pharm-page19"
+    },
+    {
+     "href": "/material/pharm-page2",
+     "external": false,
+     "title": "Ідентифікація кислоти аскорбінової експрес методом за допомогою арґентуму нітрату",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page2"
+    },
+    {
+     "href": "/material/pharm-page3",
+     "external": false,
+     "title": "Ідентифікація сульфат іонів експрес методом за допомогою барію хлориду на прикладі магнію сульфату",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page3"
+    },
+    {
+     "href": "/material/pharm-page4",
+     "external": false,
+     "title": "Ідентифікація магній іонів експрес методом за допомогою динатрію гідрофосфату",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page4"
+    },
+    {
+     "href": "/material/pharm-page5",
+     "external": false,
+     "title": "Ідентифікація саліцилат іонів експрес методом за допомогою феруму хлориду",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page5"
+    },
+    {
+     "href": "/material/pharm-page6",
+     "external": false,
+     "title": "Кількісне визначення натрію тіосульфату методом прямої йодометрії",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page6"
+    },
+    {
+     "href": "/material/pharm-page7",
+     "external": false,
+     "title": "Ідентифікація натрію тіосульфату експрес методом за допомогою розчину йоду в калію йодиді",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page7"
+    },
+    {
+     "href": "/material/pharm-page8",
+     "external": false,
+     "title": "Ідентифікація натрію тіосульфату експрес методом за допомогою арґентуму нітрату",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page8"
+    },
+    {
+     "href": "/material/pharm-page9",
+     "external": false,
+     "title": "Ідентифікація хлорид іонів експрес методом за допомогою арґентуму нітрату",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page9"
+    },
+    {
+     "href": "/material/pharm-page10",
+     "external": false,
+     "title": "Ідентифікація фенольного гідроксилу експрес методом за допомогою феруму хлориду",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page10"
+    },
+    {
+     "href": "/material/pharm-page11",
+     "external": false,
+     "title": "Лабораторне добування метану",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page11"
+    },
+    {
+     "href": "/material/pharm-page12",
+     "external": false,
+     "title": "Реакція срібного дзеркала",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page12"
+    },
+    {
+     "href": "/material/pharm-page13",
+     "external": false,
+     "title": "Взаємодія фенолу з бромною водою",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page13"
+    },
+    {
+     "href": "/material/pharm-page14",
+     "external": false,
+     "title": "Якісна реакція на багатоатомні спирти",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page14"
+    },
+    {
+     "href": "/material/pharm-page15",
+     "external": false,
+     "title": "Дія бромної води і калій перманганату на бензен",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page15"
+    },
+    {
+     "href": "/material/pharm-page16",
+     "external": false,
+     "title": "Отримання етилену та вивчення його властивостей",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page16"
+    },
+    {
+     "href": "/material/pharm-page17",
+     "external": false,
+     "title": "Галогенування алканів",
+     "subtitle": "",
+     "image": "/media/img/chemistry.webp",
+     "flavor": null,
+     "material": "pharm-page17"
+    },
+    {
+     "href": "/material/page76",
+     "external": false,
+     "title": "Anima",
+     "subtitle": "",
+     "image": "/media/img/anima.jpg",
+     "flavor": null,
+     "material": "page76"
+    },
+    {
+     "href": "/material/page77",
+     "external": false,
+     "title": "Національний портал з імунізації",
+     "subtitle": "",
+     "image": "/media/img/national_imun.jpg",
+     "flavor": null,
+     "material": "page77"
+    },
+    {
+     "href": "/material/pharm-page20",
+     "external": false,
+     "title": "ОЕФ. Таксування різних ЛФ",
+     "subtitle": "",
+     "image": "/media/img/OEF_banner.jpg",
+     "flavor": null,
+     "material": "pharm-page20"
+    },
+    {
+     "href": "/material/pharm-page21",
+     "external": false,
+     "title": "ОЕФ. Фармацевтична опіка в аптеці майбутнього",
+     "subtitle": "",
+     "image": "/media/img/OEF_banner.jpg",
+     "flavor": null,
+     "material": "pharm-page21"
+    },
+    {
+     "href": "/material/pharm-page22",
+     "external": false,
+     "title": "Фармакогнозія. Серцеві глікозиди",
+     "subtitle": "",
+     "image": "/media/img/OEF_banner.jpg",
+     "flavor": null,
+     "material": "pharm-page22"
+    }
+   ],
+   "intro": [
+    "Сторінка Освітнього хабу «Фармація» cтворена науково-педагогічними та педагогічними працівниками фахового медичного коледжу Івано-Франківського національного медичного університету.",
+    "Із розвитком Освітнього хабу навчальні блоки були створені також нашими партнерами з українських медичних ЗВО, колегами, роботодавцями та небайдужими й активними людьми, які переживають за розвиток медичної освіти в Україні.",
+    "Тому авторство навчальних блоків ми вказуємо в кожному блоці окремо.",
+    "Дякуємо всім за участь! Ми відкриті до співпраці. Запрошуємо."
+   ]
+  }
+ },
+ "materials": {
+  "page1": {
+   "id": "page1",
+   "legacy": "eduHubPages/page1.html",
+   "title": "Внутрішньовенне краплинне введення лікарських засобів",
+   "desc": "Оснащення: стерильні система одноразового використання для внутрішньовенного краплинного введення рідини, ватні кульки, серветки, пінцет, лоток. Гумові рукавички, маска, водонепроникний фартух, захисні окуляри/екран, спи…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/DiFMaelADDM/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page2": {
+   "id": "page2",
+   "legacy": "eduHubPages/page2.html",
+   "title": "Внутрішньовенне струминне введення лікарського засобу",
+   "desc": "Оснащення: стерильні: шприци (10-20мл), голки для внутрішньовенних ін’єкцій, ватні кульки, серветки, пінцет в дезінфікуючому розчині, лоток. Гумові рукавички, маска, захисні окуляри/екран, водонепроникний фартух, спирт е…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/0aGZc0aY_GQ/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page3": {
+   "id": "page3",
+   "legacy": "eduHubPages/page3.html",
+   "title": "Забір крові з вени на біохімію",
+   "desc": "Оснащення: Стерильні: шприци (10-20 мл), голки для внутрішньовенних ін’єкцій, ватні кульки, серветки, пінцет в дезінфікуючому розчині, лоток. Гумові рукавички, маска, захисні окуляри/екран, водонепроникний фартух, спирт …",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/RlJfLwfLjxg/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page4": {
+   "id": "page4",
+   "legacy": "eduHubPages/page4.html",
+   "title": "Техніка проведення послаблювальної (олійної) клізми",
+   "desc": "Оснащення: Шприц Жане, стерильна газовивідна трубка (в упаковці), вазелін, шпатель, олія (вазелінова, рослинна) 50-100 мл (за призначенням лікаря), водяна баня, рукавички, фартух, маска, туалетний папір, клейонка, пелюшк…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/Q1aJF5_mGuU/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "academ": {
+   "id": "academ",
+   "legacy": "eduHubPages/academ.html",
+   "title": "Академічна доброчесність",
+   "desc": "Проєкт «Ініціатива академічної доброчесності та якості освіти» (Academic Integrity and Quality Initiative – Academic IQ), що реалізується Американськими Радами з міжнародної освіти за сприяння Посольства США в Україні (В…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/vYhYvJZrcGA/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing",
+    "dentistry",
+    "pharmacy"
+   ],
+   "image": "/media/img/education.webp"
+  },
+  "index5": {
+   "id": "index5",
+   "legacy": "eduHubPages/index5.html",
+   "title": "Проведення лікувальної клізми",
+   "desc": "Оснащення: Грушоподібний балон або шприц Жане, газовивідна трубка, шпатель, вазелін, лікарський препарат (50-100 мл), підігрітий до 37-380 С, туалетний папір, рукавички, водонепроникний фартух, маска, клейонка, пелюшка, …",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/yFhvOME8qeE/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "index6": {
+   "id": "index6",
+   "legacy": "eduHubPages/index6.html",
+   "title": "Проведення сифонної клізми",
+   "desc": "Оснащення: Система для сифонної клізми: два стерильні товсті шлункові зонди (діаметром 0,8-1 см), сполучених скляною трубкою (закруглений кінець одного зонда зрізаний); скляна лійка 0,5-1 л, вода кімнатної температури аб…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/vQU_1sR4Xc4/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "index7": {
+   "id": "index7",
+   "legacy": "eduHubPages/index7.html",
+   "title": "Забір сечі за нечипоренком",
+   "desc": "Оснащення.: скляна посудина міскістю 200 мл, етикетка-направлення.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/O1JnHDJeakI/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page10": {
+   "id": "page10",
+   "legacy": "eduHubPages/page10.html",
+   "title": "Техніка проведення скарифікаційної проби",
+   "desc": "Оснащення: стерильні: шприци, голки, пінцет в дезінфікуючому розчині лоток. Гумові рукавички, маска, спирт етиловий 70%, лікарські препарати в ампулах і флаконах, пилочка, лоток для використаного матеріалу, ємкість для в…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/s421gyP3_xY/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page11": {
+   "id": "page11",
+   "legacy": "eduHubPages/page11.html",
+   "title": "Виконання підшкірної ін’єкції",
+   "desc": "Оснащення: стерильні шприци, голки, ватні кульки, серветки, пінцет в дезінфікуючому розчині лоток. Гумові рукавички, маска, спирт етиловий 70%, інсулін, лоток для використаного матеріалу, ємкість для використаного матері…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/zIV51hj50Wc/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page12": {
+   "id": "page12",
+   "legacy": "eduHubPages/page12.html",
+   "title": "Правила розведення антибіотиків",
+   "desc": "Оснащення: флакон з лікарським порошком (антибіотиком), розчинник, стерильний шприц з голками, 70% етиловий спирт, ватні кульки, 1 лоток, рукавички, бікс зі стерильними серветками, маска.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/GzDNlphCSEY/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page13": {
+   "id": "page13",
+   "legacy": "eduHubPages/page13.html",
+   "title": "Закладання мазі в кон’юнктивальний мішок",
+   "desc": "Місце проведення: оглядова кімната в офтальмологічному відділенні, ФАП, поліклінічний кабінет офтальмолога",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/1FGEZwaJEEk/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page14": {
+   "id": "page14",
+   "legacy": "eduHubPages/page14.html",
+   "title": "Закапування крапель в кон’юнктивальний мішок",
+   "desc": "Місце проведення: оглядова кімната в офтальмологічному відділенні, ФАП, поліклінічний кабінет офтальмолога.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/xNFJvb6blF8/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page15": {
+   "id": "page15",
+   "legacy": "eduHubPages/page15.html",
+   "title": "Проведення зондового промивання шлунку",
+   "desc": "Оснащення: Тонкий шлунковий зонд, рушник, серветки, стерильна посудина для промивних вод, посудина з кип’яченою водою кімнатної температури (10 л), посудина для зливу промивних вод, рукавички, водонепроникний фартух - 2 …",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/R45Vj8te5vs/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page16": {
+   "id": "page16",
+   "legacy": "eduHubPages/page16.html",
+   "title": "Мінна агресія",
+   "desc": "",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/I-WkKhZAKL4/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page17": {
+   "id": "page17",
+   "legacy": "eduHubPages/page17.html",
+   "title": "Індивідуальні та колективні засоби захисту",
+   "desc": "",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/sqg284pWfr8/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page18": {
+   "id": "page18",
+   "legacy": "eduHubPages/page18.html",
+   "title": "Базові реанімаційні заходи «BASIC LIFE SUPPORT» («BLS», базова підтримка життєдіяльності)",
+   "desc": "Є необхідність відтермінування на час забезпечення безпеки для реаніматора та реанімуємого",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/ea1RJUOiNfQ/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page19": {
+   "id": "page19",
+   "legacy": "eduHubPages/page19.html",
+   "title": "Алгоритм використання АЗД – Автоматичного (напівавтоматичного) зовнішнього дефібрилятора",
+   "desc": "Протипоказаня: Відсутність доступного АЗД.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/UFvL7wTFzl0/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page20": {
+   "id": "page20",
+   "legacy": "eduHubPages/page20.html",
+   "title": "Advanced Trauma Life Support (ATLS, надання медичної допомоги при травмах)",
+   "desc": "ATLS вважається світовим стандартом для медиків, які надають допомогу пацієнтам з травмою. Його мета – навчити медичний персонал базовому і стандартизованому підходу лікування пацієнтів з травмою, чітких алгоритмів і прі…",
+   "videos": 10,
+   "thumb": "https://i.ytimg.com/vi/yJYXUutnP5g/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page21": {
+   "id": "page21",
+   "legacy": "eduHubPages/page21.html",
+   "title": "Advanced Trauma Life Support (ATLS, надання медичної допомоги при травмах)",
+   "desc": "ATLS вважається світовим стандартом для медиків, які надають допомогу пацієнтам з травмою. Його мета – навчити медичний персонал базовому і стандартизованому підходу лікування пацієнтів з травмою, чітких алгоритмів і прі…",
+   "videos": 10,
+   "thumb": "https://i.ytimg.com/vi/yJYXUutnP5g/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/gmka.jpg"
+  },
+  "page22": {
+   "id": "page22",
+   "legacy": "eduHubPages/page22.html",
+   "title": "Інтерв'ю з професором Михайлом Пустовойтом",
+   "desc": "Якщо ви ніколи в житті не бачили психіатра, тим більше психоаналітика, а лише тільки в кіно, то тепер у вас буде така можливість у невимушеній обстановці це зробити.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/cj0funp6DJg/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/myhailo.png"
+  },
+  "page24": {
+   "id": "page24",
+   "legacy": "eduHubPages/page24.html",
+   "title": "Роль і завдання медсестри при проведенні вакцинації",
+   "desc": "Олександра Палагіцька (викладачка КЗВО «Львівська медична академія ім. Андрея Крупинського», медична сестра - магістр, менеджерка освітніх програм для медсестер, засновниця та організаторка сніданків для медсестер, засту…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/TW7vhfFxmnY/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/eduHubPages/img/page24_banner.png"
+  },
+  "page25": {
+   "id": "page25",
+   "legacy": "eduHubPages/page25.html",
+   "title": "Сучасні аспекти освіти в медсестринстві",
+   "desc": "Олександра Палагіцька (викладачка КЗВО «Львівська медична академія ім. Андрея Крупинського», медична сестра - магістр, менеджерка освітніх програм для медсестер, засновниця та організаторка сніданків для медсестер, засту…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/XpMJE-xAaC4/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/eduHubPages/img/page24_banner.png"
+  },
+  "page26": {
+   "id": "page26",
+   "legacy": "eduHubPages/page26.html",
+   "title": "Створення безпечного середовища для медичних сестер в структурі паліативної допомоги",
+   "desc": "Олександра Палагіцька (викладачка КЗВО «Львівська медична академія ім. Андрея Крупинського», медична сестра - магістр, менеджерка освітніх програм для медсестер, засновниця та організаторка сніданків для медсестер, засту…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/g93taICsnBg/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/eduHubPages/img/page24_banner.png"
+  },
+  "page27": {
+   "id": "page27",
+   "legacy": "eduHubPages/page27.html",
+   "title": "Сучасний підхід до консультування перед проведенням колоноскопії",
+   "desc": "Олександра Палагіцька (викладачка КЗВО «Львівська медична академія ім. Андрея Крупинського», медична сестра - магістр, менеджерка освітніх програм для медсестер, засновниця та організаторка сніданків для медсестер, засту…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/aBNP7Ec0jvc/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/eduHubPages/img/page24_banner.png"
+  },
+  "page28": {
+   "id": "page28",
+   "legacy": "eduHubPages/page28.html",
+   "title": "Напрацювання проекту NEST",
+   "desc": "Олександра Палагіцька (викладачка КЗВО «Львівська медична академія ім. Андрея Крупинського», медична сестра - магістр, менеджерка освітніх програм для медсестер, засновниця та організаторка сніданків для медсестер, засту…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/ZshCeNqTJdY/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/eduHubPages/img/page24_banner.png"
+  },
+  "page29": {
+   "id": "page29",
+   "legacy": "eduHubPages/page29.html",
+   "title": "Успішний кейс №1. Олександра Палагіцька ► Курс “Розвиток лідерського потенціалу”",
+   "desc": "Олександра Палагіцька (викладачка КЗВО «Львівська медична академія ім. Андрея Крупинського», медична сестра - магістр, менеджерка освітніх програм для медсестер, засновниця та організаторка сніданків для медсестер, засту…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/gF4bHiHePpE/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/eduHubPages/img/page24_banner.png"
+  },
+  "page30": {
+   "id": "page30",
+   "legacy": "eduHubPages/page30.html",
+   "title": "Школа вакцинації для медсестер ( 3 частини)",
+   "desc": "Олександра Палагіцька (викладачка КЗВО «Львівська медична академія ім. Андрея Крупинського», медична сестра - магістр, менеджерка освітніх програм для медсестер, засновниця та організаторка сніданків для медсестер, засту…",
+   "videos": 3,
+   "thumb": "https://i.ytimg.com/vi/v5p5_xLlxFw/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/eduHubPages/img/page24_banner.png"
+  },
+  "page31": {
+   "id": "page31",
+   "legacy": "eduHubPages/page31.html",
+   "title": "Трансформація ролі медсестри у часі війни",
+   "desc": "Олександра Палагіцька (викладачка КЗВО «Львівська медична академія ім. Андрея Крупинського», медична сестра - магістр, менеджерка освітніх програм для медсестер, засновниця та організаторка сніданків для медсестер, засту…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/CBTJSxax1BQ/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/eduHubPages/img/page24_banner.png"
+  },
+  "page32": {
+   "id": "page32",
+   "legacy": "eduHubPages/page32.html",
+   "title": "Медсестринський процес при реабілітації пацієнтів з цереброваскулярною патологією (інсульт)",
+   "desc": "Медсестри відіграють дуже важливу роль у реабілітації, освіті, консультуванні, профілактиці, і догляді за пацієнтами з порушенням мозкового кровообігу (ПМК). У догляді за пацієнтам, які перенесли інсульт, медичним сестра…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/EJ_MnJ2ANR4/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/eduHubPages/img/page32.jpg"
+  },
+  "page33": {
+   "id": "page33",
+   "legacy": "eduHubPages/page33.html",
+   "title": "Методика одягання захисного костюма при роботі з хворими на особливо небезпечні інфекції",
+   "desc": "Доцент кафедри інфекційних хвороб та епідеміології ІФНМУ Андрій Процик проводить майстер-клас «Методика одягання захисного костюма при роботі з хворими на особливо небезпечні інфекції».",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/tBfwGv-3fPM/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/eduHubPages/img/page33.jpg"
+  },
+  "page34": {
+   "id": "page34",
+   "legacy": "eduHubPages/page34.html",
+   "title": "Травма в автокатастрофі: як правильно зняти шолом | ATLS",
+   "desc": "Advanced Trauma Life Support (ATLS, надання медичної допомоги при травмах). ATLS вважається світовим стандартом для медиків, які надають допомогу пацієнтам з травмою. Його мета – навчити медичний персонал базовому і стан…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/Pf84FmGpUyI/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/gmka.jpg"
+  },
+  "page35": {
+   "id": "page35",
+   "legacy": "eduHubPages/page35.html",
+   "title": "Як правильно накласти тазовий бандаж | ATLS",
+   "desc": "Advanced Trauma Life Support (ATLS, надання медичної допомоги при травмах). ATLS вважається світовим стандартом для медиків, які надають допомогу пацієнтам з травмою. Його мета – навчити медичний персонал базовому і стан…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/0PwbvclIzL4/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/gmka.jpg"
+  },
+  "page36": {
+   "id": "page36",
+   "legacy": "eduHubPages/page36.html",
+   "title": "Як правильно накладати турнікет",
+   "desc": "Global Medical Knowledge Alliance – некомерційна організація, місія якої полягає у наданні відкритої медичної інформації, заснованої на доказах про міжнародні медичні стандарти. Вони прагнуть зробити її доступною для лік…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/Tq1C90vZizY/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/gmka.jpg"
+  },
+  "page37": {
+   "id": "page37",
+   "legacy": "eduHubPages/page37.html",
+   "title": "Як виконати конікотомію",
+   "desc": "Global Medical Knowledge Alliance – некомерційна організація, місія якої полягає у наданні відкритої медичної інформації, заснованої на доказах про міжнародні медичні стандарти. Вони прагнуть зробити її доступною для лік…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/dCzAfF_HzBM/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/gmka.jpg"
+  },
+  "page38": {
+   "id": "page38",
+   "legacy": "eduHubPages/page38.html",
+   "title": "Як зупинити кровотечу і врятувати життя",
+   "desc": "Global Medical Knowledge Alliance – некомерційна організація, місія якої полягає у наданні відкритої медичної інформації, заснованої на доказах про міжнародні медичні стандарти. Вони прагнуть зробити її доступною для лік…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/iMHKFCZLdfQ/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/gmka.jpg"
+  },
+  "page39": {
+   "id": "page39",
+   "legacy": "eduHubPages/page39.html",
+   "title": "Перша медична допомога при травмах ока в умовах війни",
+   "desc": "Global Medical Knowledge Alliance – некомерційна організація, місія якої полягає у наданні відкритої медичної інформації, заснованої на доказах про міжнародні медичні стандарти. Вони прагнуть зробити її доступною для лік…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/LWfV5oYqVOM/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/gmka.jpg"
+  },
+  "page40": {
+   "id": "page40",
+   "legacy": "eduHubPages/page40.html",
+   "title": "Сучасні ресурси для особистого та професійного розвитку медичної сестри",
+   "desc": "Олександра Палагіцька (викладачка КЗВО «Львівська медична академія ім. Андрея Крупинського», медична сестра - магістр, менеджерка освітніх програм для медсестер, засновниця та організаторка сніданків для медсестер, засту…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/IakUXWEDbLE/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/eduHubPages/img/page24_banner.png"
+  },
+  "page41": {
+   "id": "page41",
+   "legacy": "eduHubPages/page41.html",
+   "title": "Підготовка голкотримача",
+   "desc": "Під керівництвом доцента Василя Кавина створені навчальні відео на кафедрі дитячої хірургії з курсом клінічної анатомії та оперативної хірургії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/PEdRnybDuUo/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page42": {
+   "id": "page42",
+   "legacy": "eduHubPages/page42.html",
+   "title": "Обкладання операційного поля",
+   "desc": "Під керівництвом доцента Василя Кавина створені навчальні відео на кафедрі дитячої хірургії з курсом клінічної анатомії та оперативної хірургії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/iM7rJwiL8LA/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page43": {
+   "id": "page43",
+   "legacy": "eduHubPages/page43.html",
+   "title": "Підготовка інструментального столика",
+   "desc": "Під керівництвом доцента Василя Кавина створені навчальні відео на кафедрі дитячої хірургії з курсом клінічної анатомії та оперативної хірургії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/u-yEt9bNc-Q/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page44": {
+   "id": "page44",
+   "legacy": "eduHubPages/page44.html",
+   "title": "Реабілітація ветеранів: матеріали для лікарів та пацієнтів",
+   "desc": "Громадська організація INgenius спільно з командою Програми реінтеграції ветеранів IREX переклала та адаптувала українською мовою практичні рекомендації, що допоможуть у веденні пацієнтів ветеранів та ветеранок відповідн…",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page45": {
+   "id": "page45",
+   "legacy": "eduHubPages/page45.html",
+   "title": "ПХОР",
+   "desc": "Під керівництвом доцента Василя Кавина створені навчальні відео на кафедрі дитячої хірургії з курсом клінічної анатомії та оперативної хірургії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/6NF0l_LcfRg/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page46": {
+   "id": "page46",
+   "legacy": "eduHubPages/page46.html",
+   "title": "Роз'єднання та з'єднання тканин",
+   "desc": "Під керівництвом доцента Василя Кавина створені навчальні відео на кафедрі дитячої хірургії з курсом клінічної анатомії та оперативної хірургії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/dHfIEjfJLsA/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page47": {
+   "id": "page47",
+   "legacy": "eduHubPages/page47.html",
+   "title": "Догляд за очима",
+   "desc": "",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/7tFzPHQUsVI/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page48": {
+   "id": "page48",
+   "legacy": "eduHubPages/page48.html",
+   "title": "Догляд за вухами. Закрапування вушних крапель",
+   "desc": "",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/EsciW_ehFUM/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page49": {
+   "id": "page49",
+   "legacy": "eduHubPages/page49.html",
+   "title": "Догляд за носовими ходами. Закрапування носа",
+   "desc": "",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/HZ0sPIAinXk/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page50": {
+   "id": "page50",
+   "legacy": "eduHubPages/page50.html",
+   "title": "Догляд за промежиною пацієнтки",
+   "desc": "",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/OyC2iTbqmXQ/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page51": {
+   "id": "page51",
+   "legacy": "eduHubPages/page51.html",
+   "title": "Сублінгвальна проба на чутливість до антибіотика",
+   "desc": "",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/wVDtjrNZLCQ/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page52": {
+   "id": "page52",
+   "legacy": "eduHubPages/page52.html",
+   "title": "Внутрішньошкірна проба на чутливість до антибіотика",
+   "desc": "",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/N8JVklCM6KY/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ]
+  },
+  "page53": {
+   "id": "page53",
+   "legacy": "eduHubPages/page53.html",
+   "title": "Як повідомити погані новини родині пацієнта",
+   "desc": "Медичний працівник повинен вміти спілкуватися з пацієнтом і його близькими! Особливо, коли мова йде про повідомлення поганих новин - про погіршення стану і можливі летальні наслідки.",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/gmka.jpg"
+  },
+  "page54": {
+   "id": "page54",
+   "legacy": "eduHubPages/page54.html",
+   "title": "Joanna GOTLIB (Wydział Nauk o Zdrowiu WUM)",
+   "desc": "Warszawski Uniwersytet Medyczny, Warszawa, 2022 r.",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "en",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/polska.jpg"
+  },
+  "page56": {
+   "id": "page56",
+   "legacy": "eduHubPages/page56.html",
+   "title": "Техніка внутрішньовенного введення лікарських засобів",
+   "desc": "Оснащення: стерильні: шприци (10-5мл), голки для внутрішньовенних ін’єкцій, ватні кульки, серветки, лоток, гумові рукавички, маска, пінцет в дезінфікуючому розчині; захисний екран (окуляри), спирт етиловий 70%, йод, гумо…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/0tq62PVCmW4/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page57": {
+   "id": "page57",
+   "legacy": "eduHubPages/page57.html",
+   "title": "Техніка виконання внутрішньом’язової ін’єкції",
+   "desc": "Оснащення: стерильні: шприци (5-2 мл), голки для внутрішньом’язових ін’єкцій, ватні кульки, серветки, лоток, гумові рукавички, маска, спирт етиловий 70%, лікарські препарати в ампулах, флаконах, пилочка, лоток для викори…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/Cr4WejFSfNs/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page58": {
+   "id": "page58",
+   "legacy": "eduHubPages/page58.html",
+   "title": "Вимірювання температури тіла дитини",
+   "desc": "Місце проведення: лікувальні заклади, домашні умови.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/AXA4wn06mLo/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page59": {
+   "id": "page59",
+   "legacy": "eduHubPages/page59.html",
+   "title": "Техніка промивання шлунку тонким зондом",
+   "desc": "Місце проведення:маніпуляційний кабінет медичної установи.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/d4HH2dcbP2c/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page61": {
+   "id": "page61",
+   "legacy": "eduHubPages/page61.html",
+   "title": "Техніка введення газовивідної трубки",
+   "desc": "Оснащення: Стерильна газовивідна трубка (в упаковці), вазелін, лоток для оснащення, рукавички – 2 пари, лоток з водою, пелюшки, клейонка, гумовий фартух.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/flob5nqoyFc/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page62": {
+   "id": "page62",
+   "legacy": "eduHubPages/page62.html",
+   "title": "Техніка проведення очисної клізми дитині раннього віку",
+   "desc": "Місце проведення: дитяча лікарня,домашні умови.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/4hBUYAdgoxE/hqdefault.jpg",
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page63": {
+   "id": "page63",
+   "legacy": "eduHubPages/page63.html",
+   "title": "Відсмоктування слизу з верхніх дихальних шляхів",
+   "desc": "Навчальниий блок створений викладачами кафедри пропедевтики педіатрії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/C6zEN2UpgvM/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page64": {
+   "id": "page64",
+   "legacy": "eduHubPages/page64.html",
+   "title": "Визначення добової та разової кількості їжі для дітей першого року життя",
+   "desc": "Навчальниий блок створений викладачами кафедри пропедевтики педіатрії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/RqwQ3CUWwHM/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page65": {
+   "id": "page65",
+   "legacy": "eduHubPages/page65.html",
+   "title": "Закапування крапель у вухо дитини",
+   "desc": "Навчальниий блок створений викладачами кафедри пропедевтики педіатрії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/6ghkjuIGnew/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page66": {
+   "id": "page66",
+   "legacy": "eduHubPages/page66.html",
+   "title": "Користування грілками і міхуром з льодом",
+   "desc": "Навчальниий блок створений викладачами кафедри пропедевтики педіатрії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/PIRvbkCb7B8/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page67": {
+   "id": "page67",
+   "legacy": "eduHubPages/page67.html",
+   "title": "Проведення антропометрії",
+   "desc": "Навчальниий блок створений викладачами кафедри пропедевтики педіатрії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/RQ9Xd4oeCXQ/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page68": {
+   "id": "page68",
+   "legacy": "eduHubPages/page68.html",
+   "title": "Закапування очей та носа",
+   "desc": "Навчальниий блок створений викладачами кафедри пропедевтики педіатрії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/hEqDLpinjZU/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page69": {
+   "id": "page69",
+   "legacy": "eduHubPages/page69.html",
+   "title": "Користування кувезом",
+   "desc": "Навчальниий блок створений викладачами кафедри пропедевтики педіатрії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/zn0YFhHib8Q/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page70": {
+   "id": "page70",
+   "legacy": "eduHubPages/page70.html",
+   "title": "Обробка та догляд за пупковою ранкою",
+   "desc": "Навчальниий блок створений викладачами кафедри пропедевтики педіатрії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/IZPMg-ePmek/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page71": {
+   "id": "page71",
+   "legacy": "eduHubPages/page71.html",
+   "title": "Профілактика рахіту",
+   "desc": "Навчальниий блок створений викладачами кафедри пропедевтики педіатрії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/DDKcPCu_q_I/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page72": {
+   "id": "page72",
+   "legacy": "eduHubPages/page72.html",
+   "title": "Проведення серцево легеневої реанімації",
+   "desc": "Навчальниий блок створений викладачами кафедри пропедевтики педіатрії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/RO6Mp3ggGVg/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/pediatr.jpg"
+  },
+  "page73": {
+   "id": "page73",
+   "legacy": "eduHubPages/page73.html",
+   "title": "Одягання стерильного халату та стерильних рукавиць операційною сестрою",
+   "desc": "Під керівництвом доцента Василя Кавина створені навчальні відео на кафедрі дитячої хірургії з курсом клінічної анатомії та оперативної хірургії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/U1FgqnfP-qc/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/hirurg.jpg"
+  },
+  "page75": {
+   "id": "page75",
+   "legacy": "eduHubPages/page75.html",
+   "title": "Навчання, медична освіта та професійний обмін для розвитку охорони здоров'я в Україні в умовах війни",
+   "desc": "Кризи, катастрофи та конфліктні ситуації зростають у всьому світі, як за частотою, так і за інтенсивністю. Кризи стають все більш складними, чи то гострі ситуації, такі як землетруси або спалахи епідемій, чи то хронічні …",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/navchannya-medichna-osvita.jpg"
+  },
+  "page76": {
+   "id": "page76",
+   "legacy": "eduHubPages/page76.html",
+   "title": "Anima",
+   "desc": "Для військових, тимчасово переміщених осіб та всіх, хто перебуває в стані підвищеного стресу.",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing",
+    "dentistry",
+    "pharmacy"
+   ],
+   "image": "/media/img/anima.jpg"
+  },
+  "page77": {
+   "id": "page77",
+   "legacy": "eduHubPages/page77.html",
+   "title": "Національний портал з імунізації",
+   "desc": "Національний портал з імунізації створено ГС “Коаліція за вакцинацію” завдяки підтримці американського народу, наданій через агентство США з міжнародного розвитку (USAID) в рамках проєкту “Розбудова стійкої системи грома…",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing",
+    "dentistry",
+    "pharmacy"
+   ],
+   "image": "/media/img/national_imun.jpg"
+  },
+  "page78": {
+   "id": "page78",
+   "legacy": "eduHubPages/page78.html",
+   "title": "Венепункція",
+   "desc": "Під керівництвом доцента Василя Кавина створені навчальні відео на кафедрі дитячої хірургії з курсом клінічної анатомії та оперативної хірургії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/WNZfVAfzHk8/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/hirurg.jpg"
+  },
+  "page79": {
+   "id": "page79",
+   "legacy": "eduHubPages/page79.html",
+   "title": "Медична сестра з розширеними повноваженнями на первинній ланці",
+   "desc": "Україно-Швейцарський проєкт «Розвиток медичної освіти» реалізується в Україні Швейцарським інститутом тропічного й громадського здоров’я (Swiss TPH) за фінансування Швейцарської агенції розвитку та співробітництва (Swiss…",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/swiss_banner.jpg"
+  },
+  "page80": {
+   "id": "page80",
+   "legacy": "eduHubPages/page80.html",
+   "title": "Симуляційні підходи в медичній освіті: міжнародний досвід",
+   "desc": "Цей онлайн-курс допоможе скласти уявлення про симуляційні підходи в медичній освіті для організації роботи симуляційного центру та їхнього застосування у викладацькій практиці.",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/swiss_banner.jpg"
+  },
+  "page81": {
+   "id": "page81",
+   "legacy": "eduHubPages/page81.html",
+   "title": "Єдиний державний кваліфікаційний іспит (ЄДКІ)",
+   "desc": "Постановою Кабінету Міністрів України від 19.05.2021 № 497 затверджено Перелік спеціальностей, за якими атестація здобувачів ступеня фахової передвищої освіти здійснюється у формі єдиного державного кваліфікаційного іспи…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/NPt-CdI0YHY/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/edki_nurse.jpg"
+  },
+  "page82": {
+   "id": "page82",
+   "legacy": "eduHubPages/page82.html",
+   "title": "Надання екстреної медичної допомоги на догоспітальному етапі",
+   "desc": "На «Prometheus» з'явився онлайн-курс від Міністерства охорони здоров'я України із надання екстреної медичної допомоги на догоспітальному етапі. Програма буде корисною для всіх медпрацівників, які мають надавати допомогу …",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/page82try.jpg"
+  },
+  "page83": {
+   "id": "page83",
+   "legacy": "eduHubPages/page83.html",
+   "title": "Курс тактичної медицини",
+   "desc": "СБУ підготувала навчальний курс із тактичної медицини: протокол TCCC, алгоритми MARCH та PAWS",
+   "videos": 7,
+   "thumb": "https://i.ytimg.com/vi/T58mNfJ1Y4c/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/tacticalMedecine.jpg"
+  },
+  "page84": {
+   "id": "page84",
+   "legacy": "eduHubPages/page84.html",
+   "title": "Людяність та емпатія в охороні здоров’я",
+   "desc": "Україно-Швейцарський проєкт «Розвиток медичної освіти» реалізується в Україні Швейцарським інститутом тропічного й громадського здоров’я (Swiss TPH) за фінансування Швейцарської агенції розвитку та співробітництва (Swiss…",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 1,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/swiss_banner.jpg"
+  },
+  "page85": {
+   "id": "page85",
+   "legacy": "eduHubPages/page85.html",
+   "title": "Визначено модуля Юнга кісткової тканини",
+   "desc": "Навчальні відео створено та надано викладачами кафедри медичної інформатики, медичної та біологічної фізики для студентів спеціальності 223 «Медсестринство»",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/tpaVb1Q4Kpg/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/page90.png"
+  },
+  "page86": {
+   "id": "page86",
+   "legacy": "eduHubPages/page86.html",
+   "title": "Вивчення в’язкості біологічних рідин",
+   "desc": "Вивчення в’язкості біологічних рідин. Основи дослідження гемодинамічних процесів. Гемодинаміка. Навчальні відео створено та надано викладачами кафедри медичної інформатики, медичної та біологічної фізики для студентів сп…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/nqV-_BmSSRM/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/page90.png"
+  },
+  "page87": {
+   "id": "page87",
+   "legacy": "eduHubPages/page87.html",
+   "title": "Вивчення роботи фізіотерапевтичної апаратури",
+   "desc": "Вивчення роботи апаратів для терапії постійним струмом та УВЧ-терапії. Навчальні відео створено та надано викладачами кафедри медичної інформатики, медичної та біологічної фізики для студентів спеціальності 223 «Медсестр…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/5nl4jWRox1g/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/page90.png"
+  },
+  "page88": {
+   "id": "page88",
+   "legacy": "eduHubPages/page88.html",
+   "title": "Вивчення роботи електрокардіографа",
+   "desc": "Навчальні відео створено та надано викладачами кафедри медичної інформатики, медичної та біологічної фізики для студентів спеціальності 223 «Медсестринство»",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/8C6ixQ7dW_k/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/page90.png"
+  },
+  "page89": {
+   "id": "page89",
+   "legacy": "eduHubPages/page89.html",
+   "title": "Вивчення роботи рефрактометра і поляриметра",
+   "desc": "Навчальні відео створено та надано викладачами кафедри медичної інформатики, медичної та біологічної фізики для студентів спеціальності 223 «Медсестринство»",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/DlQiUih1DyM/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/page90.png"
+  },
+  "page90": {
+   "id": "page90",
+   "legacy": "eduHubPages/page90.html",
+   "title": "Радіоактивність",
+   "desc": "Вивчення роботи дозиметрів іонізуючого випромінювання. Навчальні відео створено та надано викладачами кафедри медичної інформатики, медичної та біологічної фізики для студентів спеціальності 223 «Медсестринство»",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/gaDh0sFDC_M/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/page90.png"
+  },
+  "page91": {
+   "id": "page91",
+   "legacy": "eduHubPages/page91.html",
+   "title": "Ведення фізіологічних пологів",
+   "desc": "Місце проведення: пологовий зал, навчально-практичний центр, симуляційний центр, центр ОСКІ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/jxdqsVMRSKk/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/page95_img.jpg"
+  },
+  "page92": {
+   "id": "page92",
+   "legacy": "eduHubPages/page92.html",
+   "title": "Зовнішнє акушерське обстеження",
+   "desc": "Місце проведення: жіноча консультація, акушерський стаціонар, амбулаторія ЗПСМ, навчально-практичний центр, симуляційний центр, центр ОСКІ..",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/lfMe3A6_xb4/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/page95_img.jpg"
+  },
+  "page93": {
+   "id": "page93",
+   "legacy": "eduHubPages/page93.html",
+   "title": "Огляд шийки матки в дзеркалах. забір матеріалу для цитологічного та бактеріологічного дослідженнядослідження",
+   "desc": "Місце проведення: жіноча консультація, амбулаторія ЗПСМ, навчально-практичний центр, симуляційний центр, центр ОСКІ., оглядовий кабінет, кабінет онкопрофоглядів, гінекологічний стаціонар.",
+   "videos": 2,
+   "thumb": "https://i.ytimg.com/vi/Hjw0TG1Lr_M/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/page95_img.jpg"
+  },
+  "page94": {
+   "id": "page94",
+   "legacy": "eduHubPages/page94.html",
+   "title": "Огляд та пальпація молочних залоз",
+   "desc": "Місце проведення: жіноча консультація, амбулаторія ЗПСМ, навчально-практичний центр, симуляційний центр, центр ОСКІ., оглядовий кабінет, кабінет онкопрофоглядів, гінекологічний та акушерський стаціонари.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/aCP4-uKMVCQ/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/page95_img.jpg"
+  },
+  "page95": {
+   "id": "page95",
+   "legacy": "eduHubPages/page95.html",
+   "title": "Бімануальне гінекологічне обстеження",
+   "desc": "Місце проведення: жіноча консультація, амбулаторія ЗПСМ, навчально-практичний центр, симуляційний центр, центр ОСКІ., оглядовий кабінет, кабінет онкопрофоглядів, гінекологічний стаціонар.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/jxdqsVMRSKk/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/page95_img.jpg"
+  },
+  "canada-page1": {
+   "id": "canada-page1",
+   "legacy": "eduHubPages/canada_page1.html",
+   "title": "The face of shock",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема із Faculty of Health Sciences, Ontario Tech University, ми маємо доступ до відеолекції Sue Coffey (PhD, Associate Pro…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/7GLNJ5bwNy4/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page2": {
+   "id": "canada-page2",
+   "legacy": "eduHubPages/canada_page2.html",
+   "title": "Multi-patient Prioritization Virtual Simulation",
+   "desc": "Анотація. Маленьке пояснення, що містить навчальний блок. Ви побачите цілі навчання для віртуальної симуляції на першій сторінці, а потім таблицю, яка містить інструмент самооцінювання. Очікується, що студенти подумають …",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page3": {
+   "id": "canada-page3",
+   "legacy": "eduHubPages/canada_page3.html",
+   "title": "Virtual simulation",
+   "desc": "Анотація. Маленьке пояснення, що містить навчальний блок. Ви побачите цілі навчання для віртуальної симуляції на першій сторінці, а потім таблицю, яка містить інструмент самооцінювання. Очікується, що студенти подумають …",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": true,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page4": {
+   "id": "canada-page4",
+   "legacy": "eduHubPages/canada_page4.html",
+   "title": "Medical Surgical Emergencies",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема Ontario Tech University –Durham College познайомтеся із лекцією Leslie Graham (RN, MN, PhD(c), CNCC, CHSE, CCSNE) «Me…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/U4LKy1O3144/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page5": {
+   "id": "canada-page5",
+   "legacy": "eduHubPages/canada_page5.html",
+   "title": "Virtual simulation",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема із Faculty of Health Sciences, Ontario Tech University, ми маємо доступ до навчального блоку із віртуальною симуляціє…",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page6": {
+   "id": "canada-page6",
+   "legacy": "eduHubPages/canada_page6.html",
+   "title": "Virtual simulation",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема із Faculty of Health Sciences, Ontario Tech University, ми маємо доступ до навчального блоку із віртуальною симуляціє…",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page7": {
+   "id": "canada-page7",
+   "legacy": "eduHubPages/canada_page7.html",
+   "title": "Virtual simulation",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема із Faculty of Health Sciences, Ontario Tech University, ми маємо доступ до навчального блоку із віртуальною симуляціє…",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page8": {
+   "id": "canada-page8",
+   "legacy": "eduHubPages/canada_page8.html",
+   "title": "Virtual simulation",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема із Faculty of Health Sciences, Ontario Tech University, ми маємо доступ до навчального блоку із віртуальною симуляціє…",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page9": {
+   "id": "canada-page9",
+   "legacy": "eduHubPages/canada_page9.html",
+   "title": "Virtual simulation",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема із Faculty of Health Sciences, Ontario Tech University, ми маємо доступ до навчального блоку із віртуальною симуляціє…",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page10": {
+   "id": "canada-page10",
+   "legacy": "eduHubPages/canada_page10.html",
+   "title": "Virtual simulation",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема із Faculty of Health Sciences, Ontario Tech University, ми маємо доступ до навчального блоку із віртуальною симуляціє…",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page11": {
+   "id": "canada-page11",
+   "legacy": "eduHubPages/canada_page11.html",
+   "title": "Virtual simulation",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема із Faculty of Health Sciences, Ontario Tech University, ми маємо доступ до навчального блоку із віртуальною симуляціє…",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page12": {
+   "id": "canada-page12",
+   "legacy": "eduHubPages/canada_page12.html",
+   "title": "Caring for patients with Stroke",
+   "desc": "Arlene Burla de la Rocha, RN, MScN., M.Ed., PhD",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "en",
+   "files": 7,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page13": {
+   "id": "canada-page13",
+   "legacy": "eduHubPages/canada_page13.html",
+   "title": "Health Assessment",
+   "desc": "",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "en",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page14": {
+   "id": "canada-page14",
+   "legacy": "eduHubPages/canada_page14.html",
+   "title": "TPN & Blood Transfusion",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема із Faculty of Health Sciences, Ontario Tech University, ми маємо доступ до навчального блоку«TPN & Blood Transfusion»…",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page16": {
+   "id": "canada-page16",
+   "legacy": "eduHubPages/canada_page16.html",
+   "title": "Understanding and Interpreting ABGs",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема із Faculty of Health Sciences, Ontario Tech University, ми маємо доступ до відеолекції Sue Coffey (PhD, Associate Pro…",
+   "videos": 2,
+   "thumb": "https://i.ytimg.com/vi/RegcYaJM304/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page17": {
+   "id": "canada-page17",
+   "legacy": "eduHubPages/canada_page17.html",
+   "title": "Cardiac monitoring and ECG interpretation",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема із Faculty of Health Sciences, Ontario Tech University, ми маємо доступ до відеолекції Sue Coffey (PhD, Associate Pro…",
+   "videos": 2,
+   "thumb": "https://i.ytimg.com/vi/9IIQHkBJiBk/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page18": {
+   "id": "canada-page18",
+   "legacy": "eduHubPages/canada_page18.html",
+   "title": "Nursing Care of the Patient Experiencing Cardiac Health Challenges",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема Ontario Tech University –Durham College познайомтеся із лекцією Leslie Graham (RN, MN, PhD(c), CNCC, CHSE, CCSNE) «Nu…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/Cr-IPnyCeyo/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page19": {
+   "id": "canada-page19",
+   "legacy": "eduHubPages/canada_page19.html",
+   "title": "Blood transfusion",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема Ontario Tech University –Durham College познайомтеся із лекцією Leslie Graham (RN, MN, PhD(c), CNCC, CHSE, CCSNE)«Blo…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/0u9HVVY4HAw/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page20": {
+   "id": "canada-page20",
+   "legacy": "eduHubPages/canada_page20.html",
+   "title": "Head Injury",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема Ontario Tech University –Durham College познайомтеся із лекцією Leslie Graham (RN, MN, PhD(c), CNCC, CHSE, CCSNE) «He…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/SF1utDzR-kg/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page21": {
+   "id": "canada-page21",
+   "legacy": "eduHubPages/canada_page21.html",
+   "title": "Adult Health Challenges nursing management: acute and chronic kidney disease",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема Ontario Tech University –Durham College познайомтеся із лекцією Leslie Graham (RN, MN, PhD(c), CNCC, CHSE, CCSNE) «Ad…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/fQlU1O7Jc-U/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page22": {
+   "id": "canada-page22",
+   "legacy": "eduHubPages/canada_page22.html",
+   "title": "Nursing Care of the patient experiencing respiratory health challenges",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема Ontario Tech University –Durham College познайомтеся із лекцією Leslie Graham (RN, MN, PhD(c), CNCC, CHSE, CCSNE) «Nu…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/kn4MZUnv42k/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page23": {
+   "id": "canada-page23",
+   "legacy": "eduHubPages/canada_page23.html",
+   "title": "Nursing Care of the patient requiring Patient Controlled Analgesia and epidural",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема Ontario Tech University –Durham College познайомтеся із лекцією Leslie Graham (RN, MN, PhD(c), CNCC, CHSE, CCSNE) «Nu…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/yaUBagaT0VM/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page24": {
+   "id": "canada-page24",
+   "legacy": "eduHubPages/canada_page24.html",
+   "title": "Nursing Care of the patient with cirrhosis",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема Ontario Tech University –Durham College познайомтеся із лекцією Leslie Graham (RN, MN, PhD(c), CNCC, CHSE, CCSNE) «Nu…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/kaQ1cyNAI1M/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page25": {
+   "id": "canada-page25",
+   "legacy": "eduHubPages/canada_page25.html",
+   "title": "Nursing Care of patient requiring pain management",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема Ontario Tech University –Durham College познайомтеся із лекцією Leslie Graham (RN, MN, PhD(c), CNCC, CHSE, CCSNE) «Nu…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/S-Pn0ZUa4u8/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "canada-page26": {
+   "id": "canada-page26",
+   "legacy": "eduHubPages/canada_page26.html",
+   "title": "Medical-Surgical Emergencies 2",
+   "desc": "В рамках розвитку партнерства та співпраці у галузі Медсестринства із закладами освіти Канади, зокрема Ontario Tech University –Durham College познайомтеся із лекцією Leslie Graham (RN, MN, PhD(c), CNCC, CHSE, CCSNE) «Me…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/g93taICsnBg/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "nursing"
+   ],
+   "image": "/media/img/canada_banner.jpg"
+  },
+  "stom-page1": {
+   "id": "stom-page1",
+   "legacy": "Stomatology/page1.html",
+   "title": "Клініко-лабораторні етапи виготовлення основних ортопедичних конструкцій",
+   "desc": "",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/jY0bz3LoX5U/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "dentistry"
+   ],
+   "image": "/media/img/bulbuk_oleksandr.jpg"
+  },
+  "stom-page2": {
+   "id": "stom-page2",
+   "legacy": "Stomatology/page2.html",
+   "title": "Зняття відбитків альгінатними матеріалами",
+   "desc": "Відео «Приготування альгінатного відбиткового матеріалу» створено кафедрою стоматології ПО ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/dd7dAHAtUwI/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "dentistry"
+   ]
+  },
+  "stom-page3": {
+   "id": "stom-page3",
+   "legacy": "Stomatology/page3.html",
+   "title": "Зняття відбитків силіконовими матеріалами",
+   "desc": "Відео «Приготування силіконового відбиткового матеріалу для зняття подвійного відбитку» створено кафедрою стоматології ПО ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/BVJjCCVJ0_I/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "dentistry"
+   ]
+  },
+  "stom-page4": {
+   "id": "stom-page4",
+   "legacy": "Stomatology/page4.html",
+   "title": "Отримання функціональних відбитків",
+   "desc": "Відео «Приготування цинк-оксидевгенольного відбиткового матеріалу для зняття функціонального відбитку» створено кафедрою стоматології ПО ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/0HFEE-FuTPE/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "dentistry"
+   ]
+  },
+  "stom-page5": {
+   "id": "stom-page5",
+   "legacy": "Stomatology/page5.html",
+   "title": "Перевірка воскової композиції ЧЗПП",
+   "desc": "Відео «Перевірка воскової композиції ЧЗПП» створено кафедрою стоматології ПО ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/gwYkPQGVdHs/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "dentistry"
+   ]
+  },
+  "stom-page6": {
+   "id": "stom-page6",
+   "legacy": "Stomatology/page6.html",
+   "title": "Артикулятори і вивчення діагностичних моделей",
+   "desc": "Апарати, що відтворюють рухи нижньої щелепи: оклюдатори та артикулятори. Оклюдатор – це найпростіший апарат, за допомогою якого можна відтворити лише вертикальні рухи нижньої щелепи, що відповідає відкриванню і закриванн…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/xhbJ_9w63Hs/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "dentistry"
+   ]
+  },
+  "stom-page7": {
+   "id": "stom-page7",
+   "legacy": "Stomatology/page7.html",
+   "title": "Ливарне пресування акрилових пластмас",
+   "desc": "Методи формування порошкових пластмас в тістоподібному стані в промисловості розділяють на два види: компресійне і ливарне пресування. Компресійне пресування (КП) - коли формований матеріал поміщають у форму і стискають …",
+   "videos": 2,
+   "thumb": "https://i.ytimg.com/vi/zpx0hLOZe2E/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "dentistry"
+   ]
+  },
+  "stom-page8": {
+   "id": "stom-page8",
+   "legacy": "Stomatology/page8.html",
+   "title": "32 E.Max Full digital protocol",
+   "desc": "CAD/CAM фрезерний центр FrankoLab, наші партнери, знайомлять нас із своїми роботами.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/l1O1kSnF-_4/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "en",
+   "files": 0,
+   "sections": [
+    "dentistry"
+   ],
+   "image": "/media/img/frankolab.png"
+  },
+  "stom-page9": {
+   "id": "stom-page9",
+   "legacy": "Stomatology/page9.html",
+   "title": "Цифрова стоматологія",
+   "desc": "Цифрова революція змінює робочий процес і операційні процедури в протезуванні. Кожен крок від діагностики до виготовлення протезів мають цифрову заміну. Лекція к.мед.н., доцента Бульбука Олександра Івановича (директор Фа…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/RiK3vaJ2pkE/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "dentistry"
+   ],
+   "image": "/media/img/bulbuk_oleksandr.jpg"
+  },
+  "stom-page10": {
+   "id": "stom-page10",
+   "legacy": "Stomatology/page10.html",
+   "title": "Виробнича практика",
+   "desc": "Виробнича практика зі спеціальності 221 Стоматологія ОПП «Стоматологія ортопедична» (Щоденник/Звіт) / З.Р. Ожоган, С.В. Петришин, О.І. Бульбук, Л.В. Мізюк, І.М. Ананевич, В.І. Рипан, В.Г. Глов’як // Навчально-методичний …",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "dentistry"
+   ]
+  },
+  "stom-page11": {
+   "id": "stom-page11",
+   "legacy": "Stomatology/page11.html",
+   "title": "Переддипломна практика",
+   "desc": "Переддипломна практика зі спеціальності 221 Стоматологія ОПП «Стоматологія ортопедична» (Щоденник/звіт) / З.Р. Ожоган, С.В. Петришин, О.І. Бульбук, І.М. Ананевич, В.І. Рипан, В.Г. Глов’як // Навчально-методичний посібник…",
+   "videos": 0,
+   "thumb": null,
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "dentistry"
+   ]
+  },
+  "stom-page12": {
+   "id": "stom-page12",
+   "legacy": "Stomatology/page12.html",
+   "title": "Єдиний державний кваліфікаційний іспит (ЄДКІ)",
+   "desc": "Постановою Кабінету Міністрів України від 19.05.2021 № 497 затверджено Перелік спеціальностей, за якими атестація здобувачів ступеня фахової передвищої освіти здійснюється у формі єдиного державного кваліфікаційного іспи…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/NPt-CdI0YHY/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "dentistry"
+   ],
+   "image": "/media/img/edki_teath.jpg"
+  },
+  "stom-page13": {
+   "id": "stom-page13",
+   "legacy": "Stomatology/page13.html",
+   "title": "Прес-кераміка",
+   "desc": "Літій-дисилікатна склокераміка Initial LiSi Press від компанії GC з середньою непрозорістю для техніки нашарування.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/wqaS2IRy2E0/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 2,
+   "sections": [
+    "dentistry"
+   ],
+   "image": "/media/img/gg2.png"
+  },
+  "pharm-page1": {
+   "id": "pharm-page1",
+   "legacy": "Pharmacy/page1.html",
+   "title": "Головний біль: сучасні підходи фармакокорекції та фармацевтичної опіки",
+   "desc": "Наша співпраця із КЗВО \"Львівська медична академія ім. Андрея Крупинського\" продовжується. У листопаді 2022 р., доктор фармацевтичних наук, професор Андрій Романович Грицик прочитав спільну лекцію для студентів фармацевт…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/B1RVvmsVNdE/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/cubanova_natalia.jpg"
+  },
+  "pharm-page2": {
+   "id": "pharm-page2",
+   "legacy": "Pharmacy/page2.html",
+   "title": "Ідентифікація кислоти аскорбінової експрес методом за допомогою арґентуму нітрату",
+   "desc": "Реакція проведена студентами фармацевтичного факультету ІФНМУ під керівництвом асистента Мар'яни МАЛОФІЙ за підтримки завідувача кафедри хімії, фармацевтичного аналізу та післядипломної освіти Андрія СТЕЦЬКІВА.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/r3IFme_WAVE/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page3": {
+   "id": "pharm-page3",
+   "legacy": "Pharmacy/page3.html",
+   "title": "Ідентифікація сульфат іонів експрес методом за допомогою барію хлориду на прикладі магнію сульфату",
+   "desc": "Реакція проведена студентами фармацевтичного факультету ІФНМУ під керівництвом асистента Мар'яни МАЛОФІЙ за підтримки завідувача кафедри хімії, фармацевтичного аналізу та післядипломної освіти Андрія СТЕЦЬКІВА.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/dtpKF9VcCxY/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page4": {
+   "id": "pharm-page4",
+   "legacy": "Pharmacy/page4.html",
+   "title": "Ідентифікація магній іонів експрес методом за допомогою динатрію гідрофосфату",
+   "desc": "Реакція проведена студентами фармацевтичного факультету ІФНМУ під керівництвом асистента Мар'яни МАЛОФІЙ за підтримки завідувача кафедри хімії, фармацевтичного аналізу та післядипломної освіти Андрія СТЕЦЬКІВА.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/tj_3dD5Zlwk/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page5": {
+   "id": "pharm-page5",
+   "legacy": "Pharmacy/page5.html",
+   "title": "Ідентифікація саліцилат іонів експрес методом за допомогою феруму хлориду",
+   "desc": "Реакція проведена студентами фармацевтичного факультету ІФНМУ під керівництвом асистента Мар'яни МАЛОФІЙ за підтримки завідувача кафедри хімії, фармацевтичного аналізу та післядипломної освіти Андрія СТЕЦЬКІВА.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/AhdkBR2y-jo/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page6": {
+   "id": "pharm-page6",
+   "legacy": "Pharmacy/page6.html",
+   "title": "Кількісне визначення натрію тіосульфату методом прямої йодометрії",
+   "desc": "Реакція проведена студентами фармацевтичного факультету ІФНМУ під керівництвом асистента Мар'яни МАЛОФІЙ за підтримки завідувача кафедри хімії, фармацевтичного аналізу та післядипломної освіти Андрія СТЕЦЬКІВА.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/oBGjdvF_UxU/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page7": {
+   "id": "pharm-page7",
+   "legacy": "Pharmacy/page7.html",
+   "title": "Ідентифікація натрію тіосульфату експрес методом за допомогою розчину йоду в калію йодиді",
+   "desc": "Реакція проведена студентами фармацевтичного факультету ІФНМУ під керівництвом асистента Мар'яни МАЛОФІЙ за підтримки завідувача кафедри хімії, фармацевтичного аналізу та післядипломної освіти Андрія СТЕЦЬКІВА.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/-OR4rHg49IA/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page8": {
+   "id": "pharm-page8",
+   "legacy": "Pharmacy/page8.html",
+   "title": "Ідентифікація натрію тіосульфату експрес методом за допомогою арґентуму нітрату",
+   "desc": "Реакція проведена студентами фармацевтичного факультету ІФНМУ під керівництвом асистента Мар'яни МАЛОФІЙ за підтримки завідувача кафедри хімії, фармацевтичного аналізу та післядипломної освіти Андрія СТЕЦЬКІВА.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/pmDHuSb-HrQ/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page9": {
+   "id": "pharm-page9",
+   "legacy": "Pharmacy/page9.html",
+   "title": "Ідентифікація хлорид іонів експрес методом за допомогою арґентуму нітрату",
+   "desc": "Реакція проведена студентами фармацевтичного факультету ІФНМУ під керівництвом асистента Мар'яни МАЛОФІЙ за підтримки завідувача кафедри хімії, фармацевтичного аналізу та післядипломної освіти Андрія СТЕЦЬКІВА.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/OO_Yw70rWDA/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page10": {
+   "id": "pharm-page10",
+   "legacy": "Pharmacy/page10.html",
+   "title": "Ідентифікація фенольного гідроксилу експрес методом за допомогою феруму хлориду",
+   "desc": "Реакція проведена студентами фармацевтичного факультету ІФНМУ під керівництвом асистента Мар'яни МАЛОФІЙ за підтримки завідувача кафедри хімії, фармацевтичного аналізу та післядипломної освіти Андрія СТЕЦЬКІВА.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/6oX2ORWt5sQ/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page11": {
+   "id": "pharm-page11",
+   "legacy": "Pharmacy/page11.html",
+   "title": "Лабораторне добування метану",
+   "desc": "Алкани (або парафіни) - це вуглеводні аліфатичного ряду, в молекулах яких атоми вуглецю зв'язані між собою лише простими ковалентними звʼязками (σ-зв'язками). Їх ще називають насиченими вуглеводнями. Найпростішим насичен…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/glOcqaoAo1w/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page12": {
+   "id": "pharm-page12",
+   "legacy": "Pharmacy/page12.html",
+   "title": "Реакція срібного дзеркала",
+   "desc": "Альдегідами називають органічні сполуки, молекули яких містять функціональну групу атомів >СOH, зв’язану з вуглеводневим радикалом.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/502QvMoOmco/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page13": {
+   "id": "pharm-page13",
+   "legacy": "Pharmacy/page13.html",
+   "title": "Взаємодія фенолу з бромною водою",
+   "desc": "Фенолами (аренолами) називають похідні ароматичних вуглеводнів, що містять одну або кілька гідроксильних груп, зв'язаних з атомами Карбону ароматичного циклу. Це ароматичні сполуки, які подібні за фізичними і хімічними в…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/ukSTIg63J6o/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page14": {
+   "id": "pharm-page14",
+   "legacy": "Pharmacy/page14.html",
+   "title": "Якісна реакція на багатоатомні спирти",
+   "desc": "Багатоатомні спирти містять дві або більше груп –ОН. Гліцерин (гліцерол) — триатомний спирт. Це означає, що в молекулі цього спирту три гідроксильні групи приєднані до трьох атомів вуглецю.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/vvPEV2ZPx78/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page15": {
+   "id": "pharm-page15",
+   "legacy": "Pharmacy/page15.html",
+   "title": "Дія бромної води і калій перманганату на бензен",
+   "desc": "Ароматичними вуглеводнями називаються сполуки, молекули яких містять стійкі циклічні структури - бензенові ядра. Бензен є найпростішим ароматичним вуглеводнем. Його склад відповідає формулі С6Н6.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/aNe2xM6aYxw/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page16": {
+   "id": "pharm-page16",
+   "legacy": "Pharmacy/page16.html",
+   "title": "Отримання етилену та вивчення його властивостей",
+   "desc": "Алкени (олефіни) - це ненасичені вуглеводні, які мають один подвійний зв'язок, sp2-гібридизацію, валентний кут 120ºС, наявність σ- і π-зв'язків. Загальна формула СnH2n: утворюють гомологічний ряд етилену.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/Fe4aGDaBGo8/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page17": {
+   "id": "pharm-page17",
+   "legacy": "Pharmacy/page17.html",
+   "title": "Галогенування алканів",
+   "desc": "Найбільш характерними реакціями насичених вуглеводнів є реакції заміщення атомів Гідрогену. Вони перебігають за ланцюговим, вільно-радикальним механізмом, зазвичай на світлі або в процесі нагрівання. Заміщення атома Гідр…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/BDsV1JoNbP4/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/chemistry.webp"
+  },
+  "pharm-page18": {
+   "id": "pharm-page18",
+   "legacy": "Pharmacy/page18.html",
+   "title": "Єдиний державний кваліфікаційний іспит (ЄДКІ)",
+   "desc": "Постановою Кабінету Міністрів України від 19.05.2021 № 497 затверджено Перелік спеціальностей, за якими атестація здобувачів ступеня фахової передвищої освіти здійснюється у формі єдиного державного кваліфікаційного іспи…",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/NPt-CdI0YHY/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/edki_farm.jpg"
+  },
+  "pharm-page19": {
+   "id": "pharm-page19",
+   "legacy": "Pharmacy/page19.html",
+   "title": "Культура сервісу. Діалог в аптеці",
+   "desc": "Івано-Франківський національний медичний університет уклав угоду про співпрацю з компанією «Фармастор», мережею аптек «Аптека Доброго Дня» та «1 Соціальна». До університету завітала Ганна Княжанська, керівниця проєкту сп…",
+   "videos": 2,
+   "thumb": "https://i.ytimg.com/vi/TzmwUDcJzW4/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/apteka.jpg"
+  },
+  "pharm-page20": {
+   "id": "pharm-page20",
+   "legacy": "Pharmacy/page20.html",
+   "title": "ОЕФ. Таксування різних ЛФ",
+   "desc": "Відео створено колективом кафедри фармацевтичного управління, технології ліків та фармакогнозії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/Zw3ZQwL0Qjw/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/OEF_banner.jpg"
+  },
+  "pharm-page21": {
+   "id": "pharm-page21",
+   "legacy": "Pharmacy/page21.html",
+   "title": "ОЕФ. Фармацевтична опіка в аптеці майбутнього",
+   "desc": "Відео створено колективом кафедри фармацевтичного управління, технології ліків та фармакогнозії ІФНМУ.",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/p6EkWoud4Rw/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/OEF_banner.jpg"
+  },
+  "pharm-page22": {
+   "id": "pharm-page22",
+   "legacy": "Pharmacy/page22.html",
+   "title": "Фармакогнозія. Серцеві глікозиди",
+   "desc": "Відео створено колективом кафедри фармацевтичного управління, технології ліків та фармакогнозії ІФНМУ",
+   "videos": 1,
+   "thumb": "https://i.ytimg.com/vi/8qvUquXcJTw/hqdefault.jpg",
+   "algorithm": false,
+   "lang": "uk",
+   "files": 0,
+   "sections": [
+    "pharmacy"
+   ],
+   "image": "/media/img/OEF_banner.jpg"
+  }
+ },
+ "orphans": []
+}
